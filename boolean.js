@@ -1,3 +1,4 @@
+//tipo boolean
 // console log 1 false
 // console log 2 true
 const primeiroNumero = 5;
